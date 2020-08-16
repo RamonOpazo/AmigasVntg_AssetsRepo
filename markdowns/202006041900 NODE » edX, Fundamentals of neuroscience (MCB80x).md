@@ -1,13 +1,14 @@
 # NODE » edX, Fundamentals of neuroscience (MCB80x)
 #MCB80x #node #neuroscience #edX #eLearning
 
+## Overview
 HarvardX course (XSeries edX Program) on the fundamentals of neuroscience. I took this course on 3th June 2020 to advance my resume. Due to the high quality of the course I payed for the certification on 8th June. The course is divided into three parts:
 
 1. The electrical properties of the neuron.
 2. Neurons and networks.
 3. The brain.
 
-# Zettel
+### Zettels
 
 1. The electrical properties of the neuron (MCB80.1x).
     - §202006041931 ─ Nernst equation
@@ -83,7 +84,7 @@ HarvardX course (XSeries edX Program) on the fundamentals of neuroscience. I too
     - §202007221634 ─ Hippocampus
     - §202007221805 ─ Hipothalamus
 
-# Links
+### Links
 
 0. Series program.
     - [edX » XSeries Program in Fundamentals of Neuroscience](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience)
