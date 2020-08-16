@@ -89,12 +89,12 @@ HarvardX course (XSeries edX Program) on the fundamentals of neuroscience. I too
 0. Series program.
     - [edX » XSeries Program in Fundamentals of Neuroscience](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience)
 1. The electrical properties of the neuron.
-    a. Section 1: Cellular and Molecular Neurobiology:
+    1. Section 1: Cellular and Molecular Neurobiology:
         - [Chapter 1: Resting Potentials and Action Potentials](https://nba.uth.tmc.edu/neuroscience/s1/chapter01.html)
         - [Chapter 2: Ionic Mechanisms and Action Potentials](https://nba.uth.tmc.edu/neuroscience/s1/chapter02.html)
         - [Chapter 3: Propagation of the Action Potential](https://nba.uth.tmc.edu/neuroscience/s1/chapter03.html)
 2. Neurons and networks
-    a. Section 1: Cellular and Molecular Neurobiology:
+    1. Section 1: Cellular and Molecular Neurobiology:
         - [Introduction to Neurons and Neuronal Networks](https://nba.uth.tmc.edu/neuroscience/s1/introduction.html)
         - [Chapter 4: Synaptic Transmission and the Skeletal Neuromuscular Junction](https://nba.uth.tmc.edu/neuroscience/s1/chapter04.html)
         - [Chapter 5: Mechanisms of Neurotransmitter Release](https://nba.uth.tmc.edu/neuroscience/s1/chapter05.html)
@@ -105,12 +105,12 @@ HarvardX course (XSeries edX Program) on the fundamentals of neuroscience. I too
         - [Chapter 11: Acetylcholine Neurotransmission](https://nba.uth.tmc.edu/neuroscience/s1/chapter11.html)
         - [Chapter 13: Amino Acid Neurotransmitters](https://nba.uth.tmc.edu/neuroscience/s1/chapter13.html)
         - [Chapter 14: Neuropeptides and Nitric Oxide](https://nba.uth.tmc.edu/neuroscience/s1/chapter14.html)
-    b. Section 2: Sensory Systems:
+    2. Section 2: Sensory Systems:
         - [Chapter 1: Overview of the Nervous System](https://nba.uth.tmc.edu/neuroscience/s2/chapter01.html)
-    c. Section 4: Homeostasis and Higher Brain Functions:
+    3. Section 4: Homeostasis and Higher Brain Functions:
         - [Chapter 7: Learning and Memory](https://nba.uth.tmc.edu/neuroscience/s4/chapter07.html)
 3. The brain.
-    a. Section 2: Sensory Systems:
+    1. Section 2: Sensory Systems:
         - [Chapter 4: Somatosensory Pathways](https://nba.uth.tmc.edu/neuroscience/s2/chapter04.html)
         - [Chapter 5: Somatosensory Processes](https://nba.uth.tmc.edu/neuroscience/s2/chapter05.html)
         - [Chapter 9: Chemical Senses: Olfaction and Gustation](https://nba.uth.tmc.edu/neuroscience/s2/chapter09.html)
@@ -118,7 +118,7 @@ HarvardX course (XSeries edX Program) on the fundamentals of neuroscience. I too
         - [Chapter 13: Auditory System: Pathways and Reflexes](https://nba.uth.tmc.edu/neuroscience/s2/chapter13.html)
         - [Chapter 14: Visual Processing: Eye and Retina](https://nba.uth.tmc.edu/neuroscience/s2/chapter14.html)
         - [Chapter 15: Visual Processing: Cortical Pathways](https://nba.uth.tmc.edu/neuroscience/s2/chapter15.html)
-    b. [Section 3: Motor Systems](https://nba.uth.tmc.edu/neuroscience/s3/index.htm)
-    c. Section 4: Homeostasis and Higher Brain Functions:
+    2. [Section 3: Motor Systems](https://nba.uth.tmc.edu/neuroscience/s3/index.htm)
+    3. Section 4: Homeostasis and Higher Brain Functions:
         - [Chapter 5: Limbic System: Hippocampus](https://nba.uth.tmc.edu/neuroscience/s4/chapter05.html)
         - [Chapter 6: Limbic System: Amygdala](https://nba.uth.tmc.edu/neuroscience/s4/chapter06.html)
