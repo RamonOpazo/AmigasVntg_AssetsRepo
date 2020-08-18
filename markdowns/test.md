@@ -1,17 +1,19 @@
 ---
+title: Lorem ipsum dolor
 author: Ramón Opazo
 date: 16/08/2020
-tags:
-  - test
+tags: [test, blog, formatting]
 ---
 
-# Lorem ipsum dolor
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus felis nisi, ultrices sed purus feugiat, placerat viverra ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc luctus dui nisi, eget vehicula erat consequat in. Nunc in eleifend diam. Aliquam lacus mi, *vestibulum sit amet* ultricies in, mollis vel urna. Vestibulum odio tellus, dapibus ut diam vel, imperdiet fermentum tellus. Nunc lacinia bibendum tellus, non hendrerit ex euismod eu. Sed mattis lacus a lorem sollicitudin ornare. Phasellus urna tellus, condimentum non magna sed, tincidunt luctus orci. Aliquam at egestas diam. Donec auctor ultrices dignissim.
+Lorem ipsum dolor sit amet, *consectetur* adipiscing elit. Phasellus felis nisi, ultrices sed purus feugiat, placerat viverra ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc luctus dui nisi, eget vehicula erat consequat in. Nunc in eleifend diam. Aliquam lacus mi, *vestibulum sit amet* ultricies in, mollis vel urna. Vestibulum odio tellus, dapibus ut diam vel, imperdiet fermentum tellus. Nunc lacinia bibendum tellus, non hendrerit ex euismod eu. Sed mattis lacus a lorem sollicitudin ornare. Phasellus urna tellus, condimentum non magna sed, tincidunt luctus orci. Aliquam at egestas diam. Donec auctor ultrices dignissim.
 
 ## Lorem ipsum & dolor
 
 Praesent mollis aliquet purus ut convallis. Maecenas nulla metus, aliquam ac mi sed, scelerisque tristique mi. Proin semper nulla nec tortor euismod placerat. Nunc consectetur nisi et metus mattis ullamcorper. Mauris massa ex, efficitur ut dictum fermentum, fermentum at nunc. Fusce maximus a velit ac imperdiet. Maecenas non nulla orci. Donec laoreet enim quis odio varius, nec malesuada sem hendrerit. Mauris iaculis ultrices massa.
+
+$$
+\displaystyle E_{ion} = \frac{RT}{zF} ln \frac{[ion]_{e}}{[ion]_{i}}
+$$
 
 Duis quis dictum ex. Aliquam quis leo metus. Integer ligula erat, imperdiet quis lobortis quis, dignissim quis tellus. Vestibulum facilisis commodo nibh, nec bibendum risus dignissim vel. Cras pulvinar eleifend metus quis semper. Donec non semper eros. Nunc at magna at massa pharetra bibendum eu sed tellus.
 
@@ -21,7 +23,7 @@ Quisque at suscipit lacus. Quisque finibus tempor lacus a ultricies. Curabitur s
 
 ## Consectetur __adipiscing__
 
-Etiam sapien lorem, bibendum quis nunc ut, elementum mattis nulla. Fusce diam velit, tincidunt non egestas quis, pellentesque vitae urna. Quisque condimentum eros non sapien tristique, a vestibulum ligula luctus. Ut in urna vehicula, finibus orci et, bibendum metus. Aenean lobortis fringilla blandit. Suspendisse enim augue, mollis ut felis nec, tempor lobortis massa. Duis et felis facilisis justo scelerisque dignissim et ac est. Phasellus laoreet ut massa et feugiat. Sed eu sapien hendrerit, faucibus purus sed, pharetra lorem. Ut interdum sed leo a euismod. Aliquam ex lectus, vestibulum nec lacinia eget, molestie et tellus. Phasellus quis mi vitae arcu consequat euismod.
+Etiam sapien *lorem*, bibendum quis __nunc ut__, elementum mattis __*nulla*__. Fusce diam velit, tincidunt non egestas quis, pellentesque vitae urna. Quisque condimentum eros non sapien tristique, a vestibulum ligula luctus. Ut in urna vehicula, finibus orci et, bibendum metus. Aenean lobortis fringilla blandit. Suspendisse enim augue, mollis ut felis nec, tempor lobortis massa. Duis et felis facilisis justo scelerisque dignissim et ac est. Phasellus laoreet ut massa et feugiat. Sed eu sapien hendrerit, faucibus purus sed, pharetra lorem. Ut interdum sed leo a euismod. Aliquam ex lectus, vestibulum nec lacinia eget, molestie et tellus. Phasellus quis mi vitae arcu consequat euismod.
 
 -   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     -   Fusce commodo lorem in ligula consectetur, sit amet consectetur ipsum dictum.
@@ -44,7 +46,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
     -   Nunc eget orci dictum, elementum risus id, congue nulla.
     -   Vestibulum ultrices libero quis nibh ultricies, non porttitor arcu consectetur.
 
-### Cum __soluta__
+### Cum *soluta*
 
 Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
 
