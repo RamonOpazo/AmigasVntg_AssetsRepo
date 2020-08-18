@@ -1,0 +1,78 @@
+202006041900 NODE » edX, Fundamentals of neuroscience (MCB80x).md
+202006041931 Nernst equation.md
+202006042106 Cellular membrane driving force.md
+202006051914 Direction of ion flow.md
+202006052003 Goldman–Hodgkin–Katz flux equation.md
+202006061138 Solvation shell.md
+202006061649 Ohm's law.md
+202006061903 Length constant equation.md
+202006061955 Time constant equation.md
+202006062259 The action potential.md
+202006071944 Modulation of voltage–gated ion channels response.md
+202006091054 Capacitance.md
+202006091119 Effects of myelination.md
+202006091140 Saltatory conduction.md
+202006121647 Type of synapses.md
+202006121745 Katz's quantal experiment.md
+202006152009 SNARE proteins of the presynaptic terminal.md
+202006152124 Neurotransmitter fate after release.md
+202006161957 Signaling of EPSPs and IPSPs.md
+202006171504 Nicotinic acethylcholine receptors.md
+202006171544 Glutamate receptors.md
+202006171641 IPSPs in depth.md
+202006171722 Allosteric modulator.md
+202006172011 Synaptic efficacy.md
+202006181236 Neuronal circuit motifs.md
+202006181310 Engram.md
+202006181748 Neuromodulation.md
+202006181834 G protein–coupled receptors.md
+202006202113 Serotonin system.md
+202006202213 Neuropeptides.md
+202006231229 Dopamine system.md
+202006231319 Cholinergic system.md
+202006231340 Noradrenaline system.md
+202006231645 Synaptic plasticity.md
+202006231752 Hebb's rule.md
+202006241050 LTP in depth.md
+202006241159 LTD in depth.md
+202006241253 Spike timing–dependent plasticity.md
+202006241629 Nonsynaptic plasticity.md
+202006291939 Vision system overview.md
+202006292034 Phototransduction.md
+202006292121 Color vision.md
+202006301958 Kirchhoff's circuit laws.md
+202007021438 Retinal processing.md
+202007021455 Retinal circuits.md
+202007021533 Retinofugal projection.md
+202007021626 Lateral geniculate nuclei.md
+202007021655 Primary visual cortex.md
+202007051427 Visual pathways.md
+202007051632 Binding problem.md
+202007071705 Auditory system overview.md
+202007071732 Outer and middle ear.md
+202007081036 Endocochlear potential.md
+202007081110 Inner ear.md
+202007081320 Auditory frequency detection.md
+202007091242 Subcortical auditory pathways.md
+202007091316 Auditory cortex.md
+202007091430 Brodmann areas of the cortex.md
+202007091506 Localization of sound.md
+202007141644 Gustatory system.md
+202007151648 Olfactory system.md
+202007152037 Somatosensory system.md
+202007171324 Skeletal muscles.md
+202007171749 Lower motor neurons.md
+202007171832 Myotatic stretch reflex.md
+202007181744 Descending motor pathways.md
+202007181823 Motor cortex.md
+202007181915 Corticospinal neuron integration.md
+202007211600 Hindbrain.md
+202007211640 Midbrain.md
+202007211713 Cerebellum.md
+202007211834 Basal ganglia.md
+202007221249 Thalamus.md
+202007221304 Limbic system.md
+202007221634 Hippocampus.md
+202007221805 Hipothalamus.md
+dir.txt
+test.md
