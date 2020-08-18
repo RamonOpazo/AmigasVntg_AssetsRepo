@@ -74,5 +74,3 @@
 202007221304 Limbic system.md
 202007221634 Hippocampus.md
 202007221805 Hipothalamus.md
-dir.txt
-test.md
