@@ -7,13 +7,15 @@ tags: "test", "blog", "formatting"
 
 Lorem ipsum dolor sit amet, *consectetur* adipiscing elit. Phasellus felis nisi, ultrices sed purus feugiat, placerat viverra ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc luctus dui nisi, eget vehicula erat consequat in. Nunc in eleifend diam. Aliquam lacus mi, *vestibulum sit amet* ultricies in, mollis vel urna. Vestibulum odio tellus, dapibus ut diam vel, imperdiet fermentum tellus. Nunc lacinia bibendum tellus, non hendrerit ex euismod eu. Sed mattis lacus a lorem sollicitudin ornare. Phasellus urna tellus, condimentum non magna sed, tincidunt luctus orci. Aliquam at egestas diam. Donec auctor ultrices dignissim.
 
+https://github.com/RamonOpazo/AmigasVntg_AssetsRepo
+
 ## Lorem ipsum & dolor
 
-Praesent mollis aliquet purus ut convallis. Maecenas nulla metus, aliquam ac mi sed, scelerisque tristique mi. Proin semper nulla nec tortor euismod placerat. Nunc consectetur nisi et metus mattis ullamcorper. Mauris massa ex, efficitur ut dictum fermentum, fermentum at nunc. Fusce maximus a velit ac imperdiet. Maecenas non nulla orci. Donec laoreet enim quis odio varius, nec malesuada sem hendrerit. Mauris iaculis ultrices massa.
+Praesent mollis aliquet purus ut convallis. Maecenas nulla metus, aliquam ac mi sed, scelerisque tristique mi. Proin semper nulla nec tortor euismod placerat. Nunc consectetur nisi et metus mattis ullamcorper. Mauris massa ex, efficitur ut dictum fermentum, fermentum at nunc. Fusce maximus a velit ac imperdiet. Maecenas non nulla orci. Donec laoreet enim quis odio varius, nec malesuada sem hendrerit @amigas.vntg. Mauris iaculis ultrices massa.
 
-$$
+```latex
 \displaystyle E_{ion} = \frac{RT}{zF} ln \frac{[ion]_{e}}{[ion]_{i}}
-$$
+```
 
 Duis quis dictum ex. Aliquam quis leo metus. Integer ligula erat, imperdiet quis lobortis quis, dignissim quis tellus. Vestibulum facilisis commodo nibh, nec bibendum risus dignissim vel. Cras pulvinar eleifend metus quis semper. Donec non semper eros. Nunc at magna at massa pharetra bibendum eu sed tellus.
 
