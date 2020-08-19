@@ -4,6 +4,7 @@ author: Ramón Opazo
 date: 22/07/2020
 tags: [MCB80_3x, neuroanatomy, model, subcorticalAreas]
 description: The hipothalamus is found in all vertebrates brains, sitting below the thalamus and above the brainstem. The main function of the hipothalamus is to maintain homeostasis of the body. It achieves this goal by regulating different autonomous and behavioral systems.
+image: 'https://images.unsplash.com/photo-1597424877208-91cf1b750505?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
 ---
 
 The hipothalamus is found in all vertebrates brains, sitting below the thalamus and above the brainstem. The main function of the hipothalamus is to **maintain homeostasis** of the body. It achieves this goal by regulating different autonomous and behavioral systems.

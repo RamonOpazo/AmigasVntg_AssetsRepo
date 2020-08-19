@@ -4,6 +4,7 @@ author: Ramón Opazo
 date: 21/07/2020
 tags: [MCB80_3x, model, subcorticalAreas]
 description: There are two types of long term memories. Declarative memory, also named explicit memory, is the memory of knowing what, that is, facts and events, consciously recalled (or declared). It is explicitly stored and retrieved.
+image: 'https://images.unsplash.com/photo-1595313173023-1b317fc8348d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=611&q=80'
 ---
 
 There are two types of long term memories. **Declarative memory**, also named _explicit memory_, is the memory of **knowing what**, that is, facts and events, _consciously recalled_ (or declared). It is explicitly stored and retrieved.

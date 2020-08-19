@@ -4,6 +4,7 @@ author: Ramón Opazo
 date: 21/07/2020
 tags: [MCB80_3x, neuroanatomy, model, subcorticalAreas]
 description: Evolutionary classification of the brain is useful to understand part of the functions of each structure.
+image: 'https://images.unsplash.com/photo-1518548305430-5241c13e9864?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
 ---
 
 Evolutionary classification of the brain is useful to understand part of the functions of each structure:

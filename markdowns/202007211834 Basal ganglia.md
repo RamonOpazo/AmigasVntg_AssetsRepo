@@ -4,6 +4,7 @@ author: Ramón Opazo
 date: 21/07/2020
 tags: [MCB80_3x, neuroanatomy, model, subcorticalAreas]
 description: The forebrain, also named prosencephalon, encompasses four main functional systems, that is, the cerebral cortex, the basal ganglia, the thalamus and the limbic system.
+image: 'https://images.unsplash.com/photo-1597806773501-d76c5333c0d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80'
 ---
 
 The **forebrain**, also named prosencephalon, encompasses four main functional systems: the cerebral cortex, the basal ganglia, the thalamus and the limbic system.
