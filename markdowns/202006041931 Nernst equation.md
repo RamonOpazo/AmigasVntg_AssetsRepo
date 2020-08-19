@@ -9,9 +9,9 @@ image: 'https://images.unsplash.com/photo-1597816196853-9d15dfd9bb06?ixlib=rb-1.
 
 The Nernst equation allows for the calculation of the net membrane potential given the _relative_ concentration of a given ion on each side of the cell's membrane. When calculating the potential on an equilibrium state between diffusion and electrostatic forces on a single ion species we solve for the **Nernst potential**, and is denoted with the ion subscript.
 
-$$
+```latex
 \displaystyle E_{ion} = \frac{RT}{zF} ln \frac{[ion]_{e}}{[ion]_{i}}
-$$
+```
 
 > for $T$ in Kelvin, $R = 8.314\ J/K*mol$ (universal gas constant), $F = 96,485\ C/mol$ (Faraday's constant), $ln$: natural log, base $e$ $(\sim 2.718)$, $C$: coulomb, $[ion]_{e}$ corresponds to the extracellular concentration of an ion, $[ion]_{i}$ thus to the intracellular concentration, and $z$: valence of the ion (in this cases can be approximated to the net charge of the ion, e.g. $+1$ in the case of $K^{+}$, or $+2$ in the case of $Ca^{+2}$).
 
