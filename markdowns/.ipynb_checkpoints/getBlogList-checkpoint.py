@@ -17,6 +17,7 @@ for md in mds:
         s = f.read()
         md.convert(s)
         if md.Meta:
+            md.Meta['md'] = s
             md.Meta['id'] = str(uuid.uuid3(uuid.NAMESPACE_DNS, s))
             data.append(md.Meta)
 
