@@ -13,7 +13,7 @@ The Nernst equation allows for the calculation of the net membrane potential giv
 \displaystyle E_{ion} = \frac{RT}{zF} ln \frac{[ion]_{e}}{[ion]_{i}}
 ```
 
-> for $T$ in Kelvin, $R = 8.314\ J/K*mol$ (universal gas constant), $F = 96,485\ C/mol$ (Faraday's constant), $ln$: natural log, base $e$ $(\sim 2.718)$, $C$: coulomb, $[ion]_{e}$ corresponds to the extracellular concentration of an ion, $[ion]_{i}$ thus to the intracellular concentration, and $z$: valence of the ion (in this cases can be approximated to the net charge of the ion, e.g. $+1$ in the case of $K^{+}$, or $+2$ in the case of $Ca^{+2}$).
+> for T in Kelvin, R = 8.314 J/K·mol (universal gas constant), F = 96,485 C/mol (Faraday's constant), ln: natural log, base e ~ 2.718, C: coulomb, [ion]e corresponds to the extracellular concentration of an ion, [ion]i thus to the intracellular concentration, and z: valence of the ion (in this cases can be approximated to the net charge of the ion, e.g. +1 in the case of K+, or +2 in the case of Ca+2).
 
 Due to the fact that the Nernst potential is reached when the system is at equilibrium, it is also known as **equilibrium potential**. On a neuron, typically the **resting potential** (the membrane potential of the cell at rest) is about the same as the Nernst potential of $K^{+}$. Nevertheless, the resting potential is the result of the composite of the flow of multiple ions through channels plus the participation of ion pumps, whereas the Nernst potential only involves the equilibrium of a given ion.
 
