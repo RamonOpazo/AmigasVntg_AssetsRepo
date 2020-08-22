@@ -17,8 +17,11 @@ for md in mds:
         s = f.read()
         md.convert(s)
         if md.Meta:
+            date = md.Meta['date'].split('/')
             md.Meta['md'] = s
             md.Meta['id'] = str(uuid.uuid3(uuid.NAMESPACE_DNS, s))
+            md.Meta['year'] = date[2]
+            md.Meta['month'] = date[1]
             data.append(md.Meta)
 
 # Export data as JSON.
